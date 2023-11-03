@@ -1,0 +1,17 @@
+[
+{
+    "id": 1,
+    "name": "Item 1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png"
+  },
+
+  {
+    "id": 2,
+    "name": "Item 2"
+  },
+  
+  {
+    "id": 3,
+    "name": "Item 3"
+  }  
+]
